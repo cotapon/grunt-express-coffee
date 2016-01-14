@@ -1,0 +1,16 @@
+env: "production"
+host: ""
+session:
+  secret: ""
+  maxAge: 3600000
+db:
+  postgresql:
+    database: ""
+    username: ""
+    password: ""
+    host: ""
+    port: ""
+hashkey: ""
+gmail:
+  user: ""
+  password: ""

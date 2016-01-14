@@ -1,0 +1,17 @@
+{
+  "name": "grunt-express-coffee",
+  "version": "0.0.0",
+  "authors": [
+    "Satoshi Kotake <cotapon@gmail.com>"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}

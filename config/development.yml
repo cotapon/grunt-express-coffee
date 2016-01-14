@@ -1,0 +1,15 @@
+env: "development"
+host: "http://localhost:3000"
+session:
+  secret: ""
+  maxAge: 3600000
+db:
+  postgresql:
+    database: ""
+    username: ""
+    password: ""
+    host: "localhost"
+    port: "5432"
+gmail:
+  user: ""
+  password: ""
